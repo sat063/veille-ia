@@ -1,0 +1,20 @@
+{
+  "name": "Veille IA — Nouveautés utiles",
+  "short_name": "Veille IA",
+  "description": "Nouveautés ChatGPT, IA locale et plugins",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9ff",
+  "theme_color": "#f7f9ff",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
