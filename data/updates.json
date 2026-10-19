@@ -1,0 +1,428 @@
+{
+  "version": 2,
+  "generatedAt": "2026-10-19T14:39:34.459Z",
+  "timezone": "Europe/Paris",
+  "schedule": "quotidien 08:17",
+  "entries": [
+    {
+      "id": "gh:upstash/context7:mcpb-v4.4.4",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.4.4",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-19T13:47:46Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.4.4",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:ctx7@0.8.1",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.8.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-19T13:47:17Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.8.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:mcpb-v4.4.3",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.4.3",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-19T08:09:43Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.4.3",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.6",
+      "category": "local",
+      "title": "Ollama · v0.40.6",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-16T22:00:46Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/benefit-street-partners",
+      "category": "chatgpt",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/stack-overflow-chatgpt-plugin",
+      "category": "plugins",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/blog/reflection-beam",
+      "category": "local",
+      "title": "Reflection's Beam is freely available on Ollama for a limited time",
+      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source": "Ollama",
+      "url": "https://ollama.com/blog/reflection-beam",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🧠",
+      "isLive": true
+    },
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.22.2",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.22.2",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-15T08:21:32Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.22.1",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.22.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-14T23:59:24Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.1",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.5",
+      "category": "local",
+      "title": "Ollama · v0.40.5",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-14T19:45:22Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/amp-beyond-coding",
+      "category": "chatgpt",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-14T12:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/third-moment-research",
+      "category": "chatgpt",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-14T07:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.22.0",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.22.0 — The Threshold Release",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-14T03:21:46Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/the-eus-next-chapter-in-ai-is-agentic",
+      "category": "chatgpt",
+      "title": "The EU’s next chapter in AI is agentic",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-14T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/blog/fly-io-sprites",
+      "category": "local",
+      "title": "Run AI agents safely with Ollama and Fly.io",
+      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-13T00:00:00.000Z",
+      "source": "Ollama",
+      "url": "https://ollama.com/blog/fly-io-sprites",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🧠",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.4",
+      "category": "local",
+      "title": "Ollama · v0.40.4",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-12T19:00:12Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/asana-browser-agent",
+      "category": "chatgpt",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-09T07:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/oracle",
+      "category": "chatgpt",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-08T16:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/oracle",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/legalon-halves-codex-costs",
+      "category": "chatgpt",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-08T12:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/blog/ollama-now-supports-jev-style-decision-models",
+      "category": "local",
+      "title": "Ollama now supports Jev-style decision models",
+      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-09-29T00:00:00.000Z",
+      "source": "Ollama",
+      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🧠",
+      "isLive": true
+    }
+  ]
+}
