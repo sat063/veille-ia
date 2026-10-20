@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-19T14:39:34.459Z",
+  "generatedAt": "2026-10-20T12:42:38.485Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
@@ -65,6 +65,27 @@
       "noApi": true,
       "kind": "plugin",
       "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "rss:/blog/clef",
+      "category": "local",
+      "title": "Clef is available on Ollama's cloud",
+      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-19T00:00:00.000Z",
+      "source": "Ollama",
+      "url": "https://ollama.com/blog/clef",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🧠",
       "isLive": true
     },
     {
