@@ -1,9 +1,156 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-22T12:57:42.530Z",
+  "generatedAt": "2026-10-23T12:36:56.689Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:upstash/context7:@upstash/context7-sdk@0.6.0",
+      "category": "plugins",
+      "title": "Context7 · @upstash/context7-sdk@0.6.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-23T11:23:07Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-sdk%400.6.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:ctx7@0.8.2",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.8.2",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-23T11:23:04Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.8.2",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.22.5",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.22.5",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-23T05:28:45Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.5",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "gh:openai/codex:rust-v0.164.0",
+      "category": "other",
+      "title": "Codex · 0.164.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-23T04:48:10Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/decisions-api",
+      "category": "chatgpt",
+      "title": "Build more responsive apps with the Decisions API",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-22T19:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/decisions-api",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.9",
+      "category": "local",
+      "title": "Ollama · v0.40.9",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-22T01:33:10Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/uber-chatgpt-work-rollout",
+      "category": "chatgpt",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "gh:NousResearch/hermes-agent:v0.22.4",
       "category": "automation",
@@ -341,6 +488,27 @@
       "isLive": true
     },
     {
+      "id": "rss:/blog/reflection-beam",
+      "category": "local",
+      "title": "Reflection's Beam is freely available on Ollama for a limited time",
+      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "source": "Ollama",
+      "url": "https://ollama.com/blog/reflection-beam",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🧠",
+      "isLive": true
+    },
+    {
       "id": "rss:/index/stack-overflow-chatgpt-plugin",
       "category": "plugins",
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -380,27 +548,6 @@
       "noApi": true,
       "kind": "web",
       "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/blog/reflection-beam",
-      "category": "local",
-      "title": "Reflection's Beam is freely available on Ollama for a limited time",
-      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-16T00:00:00.000Z",
-      "source": "Ollama",
-      "url": "https://ollama.com/blog/reflection-beam",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🧠",
       "isLive": true
     },
     {
