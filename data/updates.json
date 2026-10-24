@@ -1,9 +1,51 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-23T12:36:56.689Z",
+  "generatedAt": "2026-10-24T11:58:50.779Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "rss:/index/scaling-storage-one-billion-users-part-two",
+      "category": "chatgpt",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-23T17:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.10",
+      "category": "local",
+      "title": "Ollama · v0.40.10",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-23T15:03:59Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
     {
       "id": "gh:upstash/context7:@upstash/context7-sdk@0.6.0",
       "category": "plugins",
@@ -800,27 +842,6 @@
       "noApi": true,
       "kind": "web",
       "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/blog/ollama-now-supports-jev-style-decision-models",
-      "category": "local",
-      "title": "Ollama now supports Jev-style decision models",
-      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-09-29T00:00:00.000Z",
-      "source": "Ollama",
-      "url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🧠",
       "isLive": true
     }
   ]
