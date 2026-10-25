@@ -1,9 +1,51 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-24T11:58:50.779Z",
+  "generatedAt": "2026-10-25T12:33:25.120Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:ollama/ollama:v0.40.11",
+      "category": "local",
+      "title": "Ollama · v0.40.11",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-24T00:30:13Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "rss:/blog/speech-models",
+      "category": "local",
+      "title": "Speech models in Ollama",
+      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-24T00:00:00.000Z",
+      "source": "Ollama",
+      "url": "https://ollama.com/blog/speech-models",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🧠",
+      "isLive": true
+    },
     {
       "id": "rss:/index/scaling-storage-one-billion-users-part-two",
       "category": "chatgpt",
@@ -790,48 +832,6 @@
       "date": "2026-10-09T07:00:00.000Z",
       "source": "OpenAI",
       "url": "https://openai.com/index/asana-browser-agent",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/oracle",
-      "category": "chatgpt",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-08T16:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/oracle",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/legalon-halves-codex-costs",
-      "category": "chatgpt",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-08T12:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
