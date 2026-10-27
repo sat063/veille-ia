@@ -1,9 +1,93 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-26T14:14:53.172Z",
+  "generatedAt": "2026-10-27T13:11:25.836Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "rss:/index/greptile-code-review-codex-astra",
+      "category": "chatgpt",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-26T22:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "chatgpt",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-26T13:45:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/chatgpt-expanding-world-of-work",
+      "category": "chatgpt",
+      "title": "ChatGPT’s expanding world of work",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-26T10:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/introducing-gpt-6-1-terra",
+      "category": "chatgpt",
+      "title": "Introducing GPT-6.1 Terra",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-26T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "gh:ollama/ollama:v0.40.11",
       "category": "local",
@@ -758,90 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🤖",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/the-eus-next-chapter-in-ai-is-agentic",
-      "category": "chatgpt",
-      "title": "The EU’s next chapter in AI is agentic",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-14T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/blog/fly-io-sprites",
-      "category": "local",
-      "title": "Run AI agents safely with Ollama and Fly.io",
-      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-13T00:00:00.000Z",
-      "source": "Ollama",
-      "url": "https://ollama.com/blog/fly-io-sprites",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🧠",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.4",
-      "category": "local",
-      "title": "Ollama · v0.40.4",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-12T19:00:12Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/asana-browser-agent",
-      "category": "chatgpt",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-09T07:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
       "isLive": true
     }
   ]
