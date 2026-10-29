@@ -1,9 +1,51 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-28T13:59:49.517Z",
+  "generatedAt": "2026-10-29T14:15:16.770Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:ollama/ollama:v0.40.13",
+      "category": "local",
+      "title": "Ollama · v0.40.13",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-28T19:55:04Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/legora",
+      "category": "chatgpt",
+      "title": "Legora is building the agentic operating system for legal work",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-28T09:30:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/legora",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "rss:/index/legora-agentic-operating-system-for-legal-work",
       "category": "chatgpt",
@@ -800,48 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🧠",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/stack-overflow-chatgpt-plugin",
-      "category": "plugins",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-16T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/benefit-street-partners",
-      "category": "chatgpt",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-16T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
       "isLive": true
     }
   ]
