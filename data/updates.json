@@ -1,9 +1,30 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-29T14:15:16.770Z",
+  "generatedAt": "2026-10-30T14:06:00.158Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:openai/codex:rust-v0.166.0",
+      "category": "other",
+      "title": "Codex · 0.166.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-10-29T19:47:53Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
     {
       "id": "gh:ollama/ollama:v0.40.13",
       "category": "local",
@@ -821,27 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "rss:/blog/reflection-beam",
-      "category": "local",
-      "title": "Reflection's Beam is freely available on Ollama for a limited time",
-      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-16T00:00:00.000Z",
-      "source": "Ollama",
-      "url": "https://ollama.com/blog/reflection-beam",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🧠",
       "isLive": true
     }
   ]
