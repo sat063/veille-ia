@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-10-30T14:06:00.158Z",
+  "generatedAt": "2026-10-31T13:38:16.060Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
@@ -23,6 +23,27 @@
       "noApi": true,
       "kind": "web",
       "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/credit-saison",
+      "category": "chatgpt",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/credit-saison",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
       "isLive": true
     },
     {
@@ -811,27 +832,6 @@
       "date": "2026-10-18T00:28:57Z",
       "source": "GitHub · ollama/ollama",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.6",
-      "category": "local",
-      "title": "Ollama · v0.40.6",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-16T22:00:46Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
       "badge": "Nouveau",
       "importance": 5,
       "platform": [
