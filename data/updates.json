@@ -1,9 +1,156 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-02T17:02:27.244Z",
+  "generatedAt": "2026-11-03T15:04:45.267Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:upstash/context7:mcpb-v4.5.0",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.5.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-03T06:42:00Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.5.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:@upstash/context7-mcp@4.5.0",
+      "category": "plugins",
+      "title": "Context7 · @upstash/context7-mcp@4.5.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-03T06:41:38Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.5.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:ctx7@0.9.0",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.9.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-03T06:41:35Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.9.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.14",
+      "category": "local",
+      "title": "Ollama · v0.40.14",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-03T01:40:40Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.22.6",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.22.6",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-02T17:18:36Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/dan-driscoll-joins-openai",
+      "category": "chatgpt",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-02T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/qodo-codex-plugin",
+      "category": "chatgpt",
+      "title": "Qodo builds context into AI code review with Codex",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-02T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "gh:openai/codex:rust-v0.166.0",
       "category": "other",
@@ -695,153 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "💎",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/ted-taylor-restaurant",
-      "category": "chatgpt",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-20T10:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/terminal-x",
-      "category": "chatgpt",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-20T07:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/terminal-x",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:mcpb-v4.4.4",
-      "category": "plugins",
-      "title": "Context7 · context7.mcpb 4.4.4",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-19T13:47:46Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.4.4",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:ctx7@0.8.1",
-      "category": "plugins",
-      "title": "Context7 · ctx7@0.8.1",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-19T13:47:17Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.8.1",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:mcpb-v4.4.3",
-      "category": "plugins",
-      "title": "Context7 · context7.mcpb 4.4.3",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-19T08:09:43Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.4.3",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "rss:/blog/clef",
-      "category": "local",
-      "title": "Clef is available on Ollama's cloud",
-      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-19T00:00:00.000Z",
-      "source": "Ollama",
-      "url": "https://ollama.com/blog/clef",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🧠",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.7",
-      "category": "local",
-      "title": "Ollama · v0.40.7",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-18T00:28:57Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.7",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
       "isLive": true
     }
   ]
