@@ -1,0 +1,43 @@
+name: Build signed iPhone photo translation shortcut
+
+on:
+  push:
+    branches:
+      - outil-raccourci-photo-iphone-20261103
+    paths:
+      - "ios-shortcut/generate_shortcut.py"
+      - ".github/workflows/build-iphone-translation.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  create-shortcut:
+    runs-on: macos-15
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Generate unsigned Apple Shortcut
+        run: |
+          python3 ios-shortcut/generate_shortcut.py ios-shortcut/Traduction_Photo_unsigned.shortcut
+          plutil -lint ios-shortcut/Traduction_Photo_unsigned.shortcut
+      - name: Sign for any iPhone
+        run: |
+          shortcuts sign --mode anyone --input ios-shortcut/Traduction_Photo_unsigned.shortcut --output ios-shortcut/Traduction_Photo.shortcut
+          test -s ios-shortcut/Traduction_Photo.shortcut
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path("ios-shortcut/Traduction_Photo.shortcut")
+          head=p.read_bytes()[:8]
+          print("Signature prefix:",repr(head))
+          assert head.startswith(b"AEA1"), "Apple signing did not produce an AEA1 signed shortcut"
+          PY
+      - name: Publish signed file on isolated branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f ios-shortcut/Traduction_Photo.shortcut
+          git commit -m "Build signed iPhone photo translation shortcut"
+          git push
