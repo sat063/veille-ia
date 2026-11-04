@@ -1,9 +1,30 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-03T15:04:45.267Z",
+  "generatedAt": "2026-11-04T15:24:20.265Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.22.7",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.22.7",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-03T21:53:16Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.7",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
     {
       "id": "gh:upstash/context7:mcpb-v4.5.0",
       "category": "plugins",
@@ -86,6 +107,27 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🦙",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "category": "chatgpt",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-03T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
       "isLive": true
     },
     {
@@ -362,6 +404,27 @@
       "isLive": true
     },
     {
+      "id": "rss:/index/introducing-gpt-6-1-terra",
+      "category": "chatgpt",
+      "title": "Introducing GPT-6.1 Terra",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-10-26T18:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
       "id": "rss:/index/gpt-6-1-sol-coderabbit-code-security",
       "category": "chatgpt",
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -391,27 +454,6 @@
       "date": "2026-10-26T10:00:00.000Z",
       "source": "OpenAI",
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/introducing-gpt-6-1-terra",
-      "category": "chatgpt",
-      "title": "Introducing GPT-6.1 Terra",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-26T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
@@ -800,48 +842,6 @@
       "noApi": true,
       "kind": "web",
       "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/scaling-ai-research-for-complex-biological-data",
-      "category": "chatgpt",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-21T04:50:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:google-gemini/gemini-cli:v0.65.0",
-      "category": "other",
-      "title": "Gemini CLI · Release v0.65.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-20T21:17:57Z",
-      "source": "GitHub · google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0",
-      "badge": "Nouveau",
-      "importance": 3,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "💎",
       "isLive": true
     }
   ]
