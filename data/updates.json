@@ -1,9 +1,156 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-05T15:26:18.347Z",
+  "generatedAt": "2026-11-06T15:00:33.036Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:upstash/context7:mcpb-v4.5.1",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.5.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-06T12:16:39Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.5.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:@upstash/context7-mcp@4.5.1",
+      "category": "plugins",
+      "title": "Context7 · @upstash/context7-mcp@4.5.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-06T12:16:19Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.5.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:ctx7@0.10.0",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.10.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-06T12:16:16Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.10.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:openai/codex:rust-v0.167.0",
+      "category": "other",
+      "title": "Codex · 0.167.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-06T01:40:00Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.23.0",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.23.0 — The Hearth Release",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-05T21:32:33Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.0",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/cultfit-builds-with-codex",
+      "category": "chatgpt",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-05T20:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/introducing-gpt-6-cyber",
+      "category": "chatgpt",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-05T09:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "gh:google-gemini/gemini-cli:v0.67.0",
       "category": "other",
@@ -44,6 +191,27 @@
       "noApi": true,
       "kind": "web",
       "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.15",
+      "category": "local",
+      "title": "Ollama · v0.40.15",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-03T22:52:31Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
       "isLive": true
     },
     {
@@ -674,174 +842,6 @@
       "noApi": true,
       "kind": "web",
       "icon": "💻",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/anima",
-      "category": "chatgpt",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-23T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/anima",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/decisions-api",
-      "category": "chatgpt",
-      "title": "Build more responsive apps with the Decisions API",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-22T19:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/decisions-api",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.9",
-      "category": "local",
-      "title": "Ollama · v0.40.9",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-22T01:33:10Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/uber-chatgpt-work-rollout",
-      "category": "chatgpt",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-22T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:NousResearch/hermes-agent:v0.22.4",
-      "category": "automation",
-      "title": "Hermes Agent · Hermes Agent v0.22.4",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-21T18:49:24Z",
-      "source": "GitHub · NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.4",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🤖",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.8",
-      "category": "local",
-      "title": "Ollama · v0.40.8",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-21T16:20:30Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.8",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/chatgpt-ads-expands-26-new-countries",
-      "category": "chatgpt",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-21T13:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:NousResearch/hermes-agent:v0.22.3",
-      "category": "automation",
-      "title": "Hermes Agent · Hermes Agent v0.22.3",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-21T12:21:11Z",
-      "source": "GitHub · NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.3",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🤖",
       "isLive": true
     }
   ]
