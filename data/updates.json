@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-06T15:00:33.036Z",
+  "generatedAt": "2026-11-07T13:58:43.163Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
@@ -86,6 +86,27 @@
       "noApi": true,
       "kind": "web",
       "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "chatgpt",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
       "isLive": true
     },
     {
@@ -362,14 +383,14 @@
       "isLive": true
     },
     {
-      "id": "rss:/index/qodo-codex-plugin",
+      "id": "rss:/index/dan-driscoll-joins-openai",
       "category": "chatgpt",
-      "title": "Qodo builds context into AI code review with Codex",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
       "short": "Annonce officielle a decouvrir.",
       "date": "2026-11-02T00:00:00.000Z",
       "source": "OpenAI",
-      "url": "https://openai.com/index/qodo-codex-plugin",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
@@ -383,14 +404,14 @@
       "isLive": true
     },
     {
-      "id": "rss:/index/dan-driscoll-joins-openai",
+      "id": "rss:/index/qodo-codex-plugin",
       "category": "chatgpt",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "title": "Qodo builds context into AI code review with Codex",
       "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
       "short": "Annonce officielle a decouvrir.",
       "date": "2026-11-02T00:00:00.000Z",
       "source": "OpenAI",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "url": "https://openai.com/index/qodo-codex-plugin",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
@@ -821,27 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🤖",
-      "isLive": true
-    },
-    {
-      "id": "gh:openai/codex:rust-v0.164.0",
-      "category": "other",
-      "title": "Codex · 0.164.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-23T04:48:10Z",
-      "source": "GitHub · openai/codex",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "💻",
       "isLive": true
     }
   ]
