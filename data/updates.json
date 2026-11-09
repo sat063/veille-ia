@@ -1,9 +1,72 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-08T14:16:37.111Z",
+  "generatedAt": "2026-11-09T17:27:07.301Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:upstash/context7:mcpb-v4.6.0",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.6.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-09T13:13:45Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.6.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:@upstash/context7-mcp@4.6.0",
+      "category": "plugins",
+      "title": "Context7 · @upstash/context7-mcp@4.6.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-09T13:13:22Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.6.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:ctx7@0.11.0",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.11.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-09T13:13:19Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.11.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
     {
       "id": "gh:upstash/context7:mcpb-v4.5.1",
       "category": "plugins",
@@ -779,69 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:@upstash/context7-sdk@0.6.0",
-      "category": "plugins",
-      "title": "Context7 · @upstash/context7-sdk@0.6.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-23T11:23:07Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-sdk%400.6.0",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:ctx7@0.8.2",
-      "category": "plugins",
-      "title": "Context7 · ctx7@0.8.2",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-23T11:23:04Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.8.2",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "gh:NousResearch/hermes-agent:v0.22.5",
-      "category": "automation",
-      "title": "Hermes Agent · Hermes Agent v0.22.5",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-23T05:28:45Z",
-      "source": "GitHub · NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.5",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🤖",
       "isLive": true
     }
   ]
