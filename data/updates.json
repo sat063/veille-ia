@@ -1,9 +1,93 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-10T15:34:10.201Z",
+  "generatedAt": "2026-11-11T15:09:27.851Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "rss:/index/chatgpt-plus-for-veterans",
+      "category": "chatgpt",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-11T08:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "gh:openai/codex:rust-v0.167.1",
+      "category": "other",
+      "title": "Codex · 0.167.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-10T21:32:01Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "gh:google-gemini/gemini-cli:v0.68.0",
+      "category": "other",
+      "title": "Gemini CLI · Release v0.68.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-10T21:17:07Z",
+      "source": "GitHub · google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0",
+      "badge": "Nouveau",
+      "importance": 3,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "💎",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/introducing-businesses-chatgpt",
+      "category": "chatgpt",
+      "title": "Introducing Businesses in ChatGPT",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-10T10:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "gh:NousResearch/hermes-agent:v0.23.1",
       "category": "automation",
@@ -758,90 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/greptile-code-review-codex-astra",
-      "category": "chatgpt",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-26T22:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/introducing-gpt-6-1-terra",
-      "category": "chatgpt",
-      "title": "Introducing GPT-6.1 Terra",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-26T18:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/gpt-6-1-sol-coderabbit-code-security",
-      "category": "chatgpt",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-26T13:45:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/chatgpt-expanding-world-of-work",
-      "category": "chatgpt",
-      "title": "ChatGPT’s expanding world of work",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-26T10:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
       "isLive": true
     }
   ]
