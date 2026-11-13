@@ -1,9 +1,72 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-12T15:57:36.444Z",
+  "generatedAt": "2026-11-13T15:22:32.752Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:openai/codex:rust-v0.169.0",
+      "category": "other",
+      "title": "Codex · 0.169.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-13T08:37:05Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "gh:openai/codex:rust-v0.168.0",
+      "category": "other",
+      "title": "Codex · 0.168.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-13T03:54:29Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "rss:/business/customer-stories/gondola",
+      "category": "chatgpt",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-12T12:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "rss:/business/customer-stories/holidays-extras-codex",
       "category": "chatgpt",
@@ -779,69 +842,6 @@
       "noApi": true,
       "kind": "web",
       "icon": "💻",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/credit-saison",
-      "category": "chatgpt",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-29T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/credit-saison",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.13",
-      "category": "local",
-      "title": "Ollama · v0.40.13",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-10-28T19:55:04Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/legora",
-      "category": "chatgpt",
-      "title": "Legora is building the agentic operating system for legal work",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-10-28T09:30:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/legora",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
       "isLive": true
     }
   ]
