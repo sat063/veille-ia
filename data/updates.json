@@ -1,9 +1,114 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-15T14:44:12.126Z",
+  "generatedAt": "2026-11-16T16:58:45.986Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:upstash/context7:ctx7@0.12.1",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.12.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-16T16:31:48Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.12.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:mcpb-v4.7.1",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.7.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-16T14:54:13Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.7.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:ctx7@0.12.0",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.12.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-16T14:53:43Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.12.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/advancing-computer-use-for-healthcare-teams",
+      "category": "chatgpt",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-16T06:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "category": "chatgpt",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-16T06:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "rss:/index/introducing-chatgpt-wallet",
       "category": "chatgpt",
@@ -737,111 +842,6 @@
       "noApi": true,
       "kind": "plugin",
       "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.14",
-      "category": "local",
-      "title": "Ollama · v0.40.14",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-03T01:40:40Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "category": "chatgpt",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-03T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:NousResearch/hermes-agent:v0.22.6",
-      "category": "automation",
-      "title": "Hermes Agent · Hermes Agent v0.22.6",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-02T17:18:36Z",
-      "source": "GitHub · NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🤖",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/qodo-codex-plugin",
-      "category": "chatgpt",
-      "title": "Qodo builds context into AI code review with Codex",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-02T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/dan-driscoll-joins-openai",
-      "category": "chatgpt",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-02T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
       "isLive": true
     }
   ]
