@@ -1,9 +1,93 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-17T16:52:26.281Z",
+  "generatedAt": "2026-11-18T16:26:08.290Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:openai/codex:rust-v0.170.0",
+      "category": "other",
+      "title": "Codex · 0.170.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-18T03:40:48Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/le-groupe-figaro-and-openai-announce-partnership",
+      "category": "chatgpt",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-18T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
+      "id": "gh:openai/codex:rust-v0.169.1",
+      "category": "other",
+      "title": "Codex · 0.169.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-17T22:21:10Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/introducing-gpt-6-2-astra-sol",
+      "category": "chatgpt",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-17T17:45:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "gh:upstash/context7:mcpb-v4.7.3",
       "category": "plugins",
@@ -65,6 +149,27 @@
       "noApi": true,
       "kind": "plugin",
       "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/introducing-chatgpt-for-sales",
+      "category": "chatgpt",
+      "title": "Introducing ChatGPT for Sales",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-17T08:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
       "isLive": true
     },
     {
@@ -173,14 +278,14 @@
       "isLive": true
     },
     {
-      "id": "rss:/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "id": "rss:/index/advancing-computer-use-for-healthcare-teams",
       "category": "chatgpt",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "title": "Advancing computer-use agents for healthcare teams",
       "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
       "short": "Annonce officielle a decouvrir.",
       "date": "2026-11-16T06:00:00.000Z",
       "source": "OpenAI",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
@@ -194,14 +299,14 @@
       "isLive": true
     },
     {
-      "id": "rss:/index/advancing-computer-use-for-healthcare-teams",
+      "id": "rss:/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "category": "chatgpt",
-      "title": "Advancing computer-use agents for healthcare teams",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
       "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
       "short": "Annonce officielle a decouvrir.",
       "date": "2026-11-16T06:00:00.000Z",
       "source": "OpenAI",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
@@ -727,111 +832,6 @@
       "date": "2026-11-06T00:00:00.000Z",
       "source": "OpenAI",
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:NousResearch/hermes-agent:v0.23.0",
-      "category": "automation",
-      "title": "Hermes Agent · Hermes Agent v0.23.0 — The Hearth Release",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-05T21:32:33Z",
-      "source": "GitHub · NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.0",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🤖",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/cultfit-builds-with-codex",
-      "category": "chatgpt",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-05T20:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/introducing-gpt-6-cyber",
-      "category": "chatgpt",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-05T09:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:google-gemini/gemini-cli:v0.67.0",
-      "category": "other",
-      "title": "Gemini CLI · Release v0.67.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-04T20:27:11Z",
-      "source": "GitHub · google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0",
-      "badge": "Nouveau",
-      "importance": 3,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "💎",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/devrev-enterprise-self-service",
-      "category": "chatgpt",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-04T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
