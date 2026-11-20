@@ -1,9 +1,93 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-19T16:31:54.115Z",
+  "generatedAt": "2026-11-20T16:07:28.982Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:openai/codex:rust-v0.171.0",
+      "category": "other",
+      "title": "Codex · 0.171.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-20T00:44:47Z",
+      "source": "GitHub · openai/codex",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "💻",
+      "isLive": true
+    },
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.23.3",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.23.3",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-20T00:34:38Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "gh:google-gemini/gemini-cli:v0.70.0",
+      "category": "other",
+      "title": "Gemini CLI · Release v0.70.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-19T21:08:05Z",
+      "source": "GitHub · google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0",
+      "badge": "Nouveau",
+      "importance": 3,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "💎",
+      "isLive": true
+    },
+    {
+      "id": "rss:/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "category": "chatgpt",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-19T08:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
     {
       "id": "gh:google-gemini/gemini-cli:v0.69.0",
       "category": "other",
@@ -23,6 +107,27 @@
       "noApi": true,
       "kind": "pc",
       "icon": "💎",
+      "isLive": true
+    },
+    {
+      "id": "rss:/business/learn/codex-security-plugin-demo",
+      "category": "plugins",
+      "title": "Explore the Codex Security Plugin",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-19T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
       "isLive": true
     },
     {
@@ -737,111 +842,6 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🦙",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:mcpb-v4.6.0",
-      "category": "plugins",
-      "title": "Context7 · context7.mcpb 4.6.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-09T13:13:45Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.6.0",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:@upstash/context7-mcp@4.6.0",
-      "category": "plugins",
-      "title": "Context7 · @upstash/context7-mcp@4.6.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-09T13:13:22Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.6.0",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:ctx7@0.11.0",
-      "category": "plugins",
-      "title": "Context7 · ctx7@0.11.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-09T13:13:19Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.11.0",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/coderabbit-codex-daybreak",
-      "category": "chatgpt",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-09T08:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:upstash/context7:mcpb-v4.5.1",
-      "category": "plugins",
-      "title": "Context7 · context7.mcpb 4.5.1",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-06T12:16:39Z",
-      "source": "GitHub · upstash/context7",
-      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.5.1",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "plugin",
-      "icon": "🧩",
       "isLive": true
     }
   ]
