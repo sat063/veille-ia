@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-20T16:07:28.982Z",
+  "generatedAt": "2026-11-21T15:20:15.504Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
@@ -44,6 +44,27 @@
       "noApi": true,
       "kind": "pc",
       "icon": "🤖",
+      "isLive": true
+    },
+    {
+      "id": "rss:/business/customer-stories/hebbia",
+      "category": "chatgpt",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
       "isLive": true
     },
     {
@@ -488,6 +509,27 @@
       "isLive": true
     },
     {
+      "id": "rss:/products/release-notes",
+      "category": "plugins",
+      "title": "Clinical search and healthcare plugins",
+      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
+      "short": "Annonce officielle a decouvrir.",
+      "date": "2026-11-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "url": "https://openai.com/products/release-notes#CL-20261116-CHAT-584",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "web",
+      "icon": "✦",
+      "isLive": true
+    },
+    {
       "id": "rss:/blog/open-models-long-horizon-agents",
       "category": "local",
       "title": "Making open models work for long-horizon agentic workloads",
@@ -719,6 +761,27 @@
       "isLive": true
     },
     {
+      "id": "gh:ollama/ollama:v0.40.17",
+      "category": "local",
+      "title": "Ollama · v0.40.17",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-10T22:25:00Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
+      "isLive": true
+    },
+    {
       "id": "gh:openai/codex:rust-v0.167.1",
       "category": "other",
       "title": "Codex · 0.167.1",
@@ -779,69 +842,6 @@
       "noApi": true,
       "kind": "web",
       "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:NousResearch/hermes-agent:v0.23.1",
-      "category": "automation",
-      "title": "Hermes Agent · Hermes Agent v0.23.1",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-10T01:42:15Z",
-      "source": "GitHub · NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.1",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🤖",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/chatgpt-enterprise-aws-marketplace",
-      "category": "chatgpt",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-09T19:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:ollama/ollama:v0.40.16",
-      "category": "local",
-      "title": "Ollama · v0.40.16",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-09T18:21:19Z",
-      "source": "GitHub · ollama/ollama",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🦙",
       "isLive": true
     }
   ]
