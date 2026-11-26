@@ -1,9 +1,72 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-25T17:57:12.587Z",
+  "generatedAt": "2026-11-26T17:42:10.611Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:upstash/context7:mcpb-v4.9.0",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.9.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-26T15:39:49Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.9.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:@upstash/context7-mcp@4.9.0",
+      "category": "plugins",
+      "title": "Context7 · @upstash/context7-mcp@4.9.0",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-26T15:39:26Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.9.0",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:ctx7@0.13.1",
+      "category": "plugins",
+      "title": "Context7 · ctx7@0.13.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-26T15:39:23Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/ctx7%400.13.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
     {
       "id": "gh:upstash/context7:mcpb-v4.8.0",
       "category": "plugins",
@@ -779,69 +842,6 @@
       "noApi": true,
       "kind": "web",
       "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/blog/open-models-long-horizon-agents",
-      "category": "local",
-      "title": "Making open models work for long-horizon agentic workloads",
-      "description": "Annonce officielle de Ollama. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-16T00:00:00.000Z",
-      "source": "Ollama",
-      "url": "https://ollama.com/blog/open-models-long-horizon-agents",
-      "badge": "Nouveau",
-      "importance": 5,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "pc",
-      "icon": "🧠",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/introducing-chatgpt-wallet",
-      "category": "chatgpt",
-      "title": "Introducing ChatGPT Wallet",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-13T15:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "gh:openai/codex:rust-v0.169.0",
-      "category": "other",
-      "title": "Codex · 0.169.0",
-      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
-      "short": "Nouvelle version disponible.",
-      "date": "2026-11-13T08:37:05Z",
-      "source": "GitHub · openai/codex",
-      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "💻",
       "isLive": true
     }
   ]
