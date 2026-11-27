@@ -1,9 +1,51 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-26T17:42:10.611Z",
+  "generatedAt": "2026-11-27T17:26:41.214Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:upstash/context7:mcpb-v4.9.1",
+      "category": "plugins",
+      "title": "Context7 · context7.mcpb 4.9.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-27T08:37:18Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/mcpb-v4.9.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:upstash/context7:@upstash/context7-mcp@4.9.1",
+      "category": "plugins",
+      "title": "Context7 · @upstash/context7-mcp@4.9.1",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-27T08:36:51Z",
+      "source": "GitHub · upstash/context7",
+      "url": "https://github.com/upstash/context7/releases/tag/%40upstash/context7-mcp%404.9.1",
+      "badge": "Nouveau",
+      "importance": 4,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "plugin",
+      "icon": "🧩",
+      "isLive": true
+    },
     {
       "id": "gh:upstash/context7:mcpb-v4.9.0",
       "category": "plugins",
@@ -790,48 +832,6 @@
       "date": "2026-11-16T06:00:00.000Z",
       "source": "OpenAI",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/advancing-computer-use-for-healthcare-teams",
-      "category": "chatgpt",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-16T06:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/products/release-notes",
-      "category": "plugins",
-      "title": "Clinical search and healthcare plugins",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-16T00:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/products/release-notes#CL-20261116-CHAT-584",
       "badge": "Nouveau",
       "importance": 4,
       "platform": [
