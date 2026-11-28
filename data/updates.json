@@ -1,9 +1,30 @@
 {
   "version": 2,
-  "generatedAt": "2026-11-27T17:26:41.214Z",
+  "generatedAt": "2026-11-28T16:09:23.742Z",
   "timezone": "Europe/Paris",
   "schedule": "quotidien 08:17",
   "entries": [
+    {
+      "id": "gh:NousResearch/hermes-agent:v0.23.5",
+      "category": "automation",
+      "title": "Hermes Agent · Hermes Agent v0.23.5",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-28T03:20:13Z",
+      "source": "GitHub · NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.5",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🤖",
+      "isLive": true
+    },
     {
       "id": "gh:upstash/context7:mcpb-v4.9.1",
       "category": "plugins",
@@ -44,6 +65,27 @@
       "noApi": true,
       "kind": "plugin",
       "icon": "🧩",
+      "isLive": true
+    },
+    {
+      "id": "gh:ollama/ollama:v0.40.19",
+      "category": "local",
+      "title": "Ollama · v0.40.19",
+      "description": "Version officielle publiee sur GitHub. Consulter les notes avant installation.",
+      "short": "Nouvelle version disponible.",
+      "date": "2026-11-26T17:52:02Z",
+      "source": "GitHub · ollama/ollama",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
+      "badge": "Nouveau",
+      "importance": 5,
+      "platform": [
+        "iphone",
+        "windows"
+      ],
+      "free": true,
+      "noApi": true,
+      "kind": "pc",
+      "icon": "🦙",
       "isLive": true
     },
     {
@@ -800,48 +842,6 @@
       "noApi": true,
       "kind": "plugin",
       "icon": "🧩",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/science-at-the-frontier",
-      "category": "chatgpt",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-16T12:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
-      "isLive": true
-    },
-    {
-      "id": "rss:/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "category": "chatgpt",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "description": "Annonce officielle de OpenAI. Consulte les details dans la source.",
-      "short": "Annonce officielle a decouvrir.",
-      "date": "2026-11-16T06:00:00.000Z",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "badge": "Nouveau",
-      "importance": 4,
-      "platform": [
-        "iphone",
-        "windows"
-      ],
-      "free": true,
-      "noApi": true,
-      "kind": "web",
-      "icon": "✦",
       "isLive": true
     }
   ]
